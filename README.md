@@ -16,7 +16,7 @@ Medium Article - Learning DL in 6 months: https://towardsdatascience.com/how-to-
 Reddit "Getting Started" tab in the /r/artificial subreddit: https://www.reddit.com/r/artificial/wiki/getting-started
 
 Link Dump from @astorfi
-Courses:
+# Courses:
 
 Machine Learning by Stanford on Coursera : [https://www.coursera.org/learn/machine-learning]
 Neural Networks and Deep Learning Specialization by Coursera: [https://www.coursera.org/learn/neural-networks-deep-learning]
@@ -28,14 +28,14 @@ Deep Learning for Natural Language Processing by Stanford: [http://cs224d.stanfo
 Deep Learning by fast.ai: [http://www.fast.ai/]
 Course on Deep Learning for Visual Computing by IITKGP: [https://www.youtube.com/playlist?list=PLuv3GM6-gsE1Biyakccxb3FAn4wBLyfWf]
 
-Books:
+# Books:
 
 Deep Learning by Ian Goodfellow: [http://www.deeplearningbook.org/]
 Neural Networks and Deep Learning : [http://neuralnetworksanddeeplearning.com/]
 Deep Learning with Python: [https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1519989624&sr=1-4&keywords=deep+learning+with+python&linkCode=sl1&tag=trndingcom-20&linkId=ec7663329fdb7ace60f39c762e999683]
 Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: [https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=as_li_ss_tl?ie=UTF8&qid=1519989725&sr=1-2-ent&linkCode=sl1&tag=trndingcom-20&linkId=71938c9398940c7b0a811dc1cfef7cc3]
 
-A subreddit breakdown: https://www.artificiallyintelligentclaire.com/reddit-machine-learning/
+# A subreddit breakdown: https://www.artificiallyintelligentclaire.com/reddit-machine-learning/
 
 A photo about neural networks: https://i.redd.it/x5tbb33fr8c41.png
 
@@ -56,7 +56,7 @@ Google Crash Course: https://developers.google.com/machine-learning/crash-course
 Cornell ML class: https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
 Cornell Syllabus: http://www.cs.cornell.edu/courses/cs4780/2018fa/syllabus/index.html
 
-Grokking Deep Learning: https://www.manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258#toc
+# Grokking Deep Learning: https://www.manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258#toc
 
 https://ai.google/education THIS
 
@@ -65,6 +65,6 @@ https://www.khanacademy.org/math/high-school-math
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
 
-Gamification of Python: https://py.checkio.org/
+# Gamification of Python: https://py.checkio.org/
 https://www.codingame.com/
 https://codecombat.com/

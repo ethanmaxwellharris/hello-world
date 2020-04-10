@@ -3,6 +3,10 @@ Source dump for machine learning, python, deep learning, yada yada yada for the 
 
 I find it hard to keep my mind and my ideas in one place for very long. I'll commit this commit (lol) to continued learning and my ability to stay focused on one platform. GitHub seems like a good enough place for... anything!
 
+Learning Python on Kaggle: https://www.kaggle.com/learn/python
+
+Browser based python scripting ftw: https://colab.research.google.com/notebooks/intro.ipynb# 
+
 Medium Article with TONS of resources: https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
 
 Hacker.Io Tutorial for Learning AI: https://hackr.io/tutorials/learn-artificial-intelligence-ai
@@ -48,3 +52,12 @@ A reduction of data science into the shape of a heart: https://i.redd.it/8mwhomj
 The Hundred-Page book on Machine Learning: http://themlbook.com/wiki/doku.php
 
 Google Crash Course: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
+
+Cornell ML class: https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
+Cornell Syllabus: http://www.cs.cornell.edu/courses/cs4780/2018fa/syllabus/index.html
+
+Grokking Deep Learning: https://www.manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258#toc
+
+https://ai.google/education THIS
+
+https://www.khanacademy.org/math/high-school-math

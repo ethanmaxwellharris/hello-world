@@ -5,7 +5,8 @@ I find it hard to keep my mind and my ideas in one place for very long. I'll com
 
 Learning Python on Kaggle: https://www.kaggle.com/learn/python
 
-Browser based python scripting ftw: https://colab.research.google.com/notebooks/intro.ipynb# 
+Browser based python scripting ftw: https://colab.research.google.com/notebooks/intro.ipynb#
+https://trinket.io/python
 
 Medium Article with TONS of resources: https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
 

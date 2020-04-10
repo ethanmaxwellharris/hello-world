@@ -66,3 +66,5 @@ https://www.khanacademy.org/math/high-school-math
 -------------------------------------------------------------------------------------
 
 Gamification of Python: https://py.checkio.org/
+https://www.codingame.com/
+https://codecombat.com/

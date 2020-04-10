@@ -3,6 +3,8 @@ Source dump for machine learning, python, deep learning, yada yada yada for the 
 
 I find it hard to keep my mind and my ideas in one place for very long. I'll commit this commit (lol) to continued learning and my ability to stay focused on one platform. GitHub seems like a good enough place for... anything!
 
+Medium Article with TONS of resources: https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
+
 Hacker.Io Tutorial for Learning AI: https://hackr.io/tutorials/learn-artificial-intelligence-ai
 
 Medium Article - Learning DL in 6 months: https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48

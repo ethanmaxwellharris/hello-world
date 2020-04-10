@@ -68,3 +68,14 @@ https://www.khanacademy.org/math/high-school-math
 # Gamification of Python: https://py.checkio.org/
 https://www.codingame.com/
 https://codecombat.com/
+
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+# videos
+https://www.youtube.com/watch?v=iv5m0c-8Opc&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln&index=2
+https://www.youtube.com/watch?v=rfscVS0vtbw
+
+# ai for everyone: https://www.deeplearning.ai/ai-for-everyone/
+
+

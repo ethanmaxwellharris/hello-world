@@ -61,3 +61,8 @@ Grokking Deep Learning: https://www.manning.com/books/grokking-deep-learning?a_a
 https://ai.google/education THIS
 
 https://www.khanacademy.org/math/high-school-math
+
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+Gamification of Python: https://py.checkio.org/

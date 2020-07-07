@@ -1,6 +1,9 @@
 # hello-world
 Source dump for machine learning, python, deep learning, yada yada yada for the dummy (aka me, an unlearned, bookish dweeb).
 
+
+## Rule 1: When you are at a loss, go to the original documentation.
+
 I find it hard to keep my mind and my ideas in one place for very long. I'll commit this commit (lol) to continued learning and my ability to stay focused on one platform. GitHub seems like a good enough place for... anything!
 
 python resources for the non-programming beginner (me): https://wiki.python.org/moin/BeginnersGuide/NonProgrammers

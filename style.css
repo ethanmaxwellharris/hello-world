@@ -28,48 +28,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-background-image: linear-gradient(
-  340deg,
-  hsl(331deg 24% 45%) 0%,
-  hsl(317deg 24% 45%) 18%,
-  hsl(302deg 23% 44%) 26%,
-  hsl(287deg 26% 46%) 33%,
-  hsl(277deg 30% 48%) 39%,
-  hsl(268deg 34% 50%) 44%,
-  hsl(261deg 40% 53%) 50%,
-  hsl(255deg 47% 55%) 56%,
-  hsl(249deg 55% 58%) 61%,
-  hsl(242deg 64% 60%) 67%,
-  hsl(236deg 76% 60%) 74%,
-  hsl(230deg 88% 59%) 82%,
-  hsl(219deg 100% 50%) 100%
-);
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-h2 {
-	strong;
-	font-color: blue;
-}
-.display-4 {
-  color: #17A2B8;
-  font-family: 'Permanent Marker', cursive;
-}
+
 details {
   position: fixed;
   right: 1rem;
@@ -184,4 +143,47 @@ summary svg {
   100% {
     transform: scale(1);
   }
+}
+
+background-image: linear-gradient(
+  340deg,
+  hsl(331deg 24% 45%) 0%,
+  hsl(317deg 24% 45%) 18%,
+  hsl(302deg 23% 44%) 26%,
+  hsl(287deg 26% 46%) 33%,
+  hsl(277deg 30% 48%) 39%,
+  hsl(268deg 34% 50%) 44%,
+  hsl(261deg 40% 53%) 50%,
+  hsl(255deg 47% 55%) 56%,
+  hsl(249deg 55% 58%) 61%,
+  hsl(242deg 64% 60%) 67%,
+  hsl(236deg 76% 60%) 74%,
+  hsl(230deg 88% 59%) 82%,
+  hsl(219deg 100% 50%) 100%
+);
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+h2 {
+	strong;
+	font-color: blue;
+}
+.display-4 {
+  color: #17A2B8;
+  font-family: 'Permanent Marker', cursive;
 }
